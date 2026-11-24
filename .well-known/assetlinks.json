@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.p2pcall",
+      "sha256_cert_fingerprints": [
+        "0B:52:0E:2D:BF:9E:E1:4C:C5:F4:DD:19:35:31:12:9E:73:0C:1D:12:1C:28:80:DF:09:26:80:22:28:29:B2:5A"
+      ]
+    }
+  }
+]
